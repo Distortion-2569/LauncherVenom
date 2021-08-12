@@ -2,15 +2,15 @@
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "clientId": "875402570502377512",
     "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
     "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
   },
   "servers": [
     {
-      "id": "VenomFaction",
-      "name": "VenomFaction",
-      "description": "VenomFaction",
+      "id": "DebianFaction",
+      "name": "DebianFaction",
+      "description": "DebianFaction",
       "icon": null,
       "version": "1.0.0",
       "address": "node-1.aryk.fr:25169",
