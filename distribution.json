@@ -205,15 +205,7 @@
             }
           ]
         },
-        {
-          "id": "net.optifine:optifine:1.7.10_HD_U_E7@jar",
-          "name": "OptiFine 1.7.10_HD_U_E7",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1774165,
-            "url": "http://localhost:8080/servers/VenomFaction-1.7.10/forgemods/required/OptiFine_1.7.10_HD_U_E7.jar",
-            "MD5": "445062f5aaf982c36c72d90530c26850"
-          }
+
         }
       ]
     }
