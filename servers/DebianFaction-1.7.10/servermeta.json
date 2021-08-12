@@ -2,8 +2,8 @@
   "$schema": "file:///c:/LauncherVenom/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "VenomFaction (Minecraft 1.7.10)",
-    "description": "VenomFaction Running Minecraft 1.7.10 (Forge v10.13.4.1614)",
+    "name": "DebianFaction (Minecraft 1.7.10)",
+    "description": "DebianFaction Running Minecraft 1.7.10 (Forge v10.13.4.1614)",
     "address": "localhost:25565",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
