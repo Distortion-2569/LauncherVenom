@@ -8,12 +8,12 @@
   },
   "servers": [
     {
-      "id": "VenomFaction",
-      "name": "VenomFaction",
-      "description": "VenomFaction",
+      "id": "VenomFaction-1.7.10",
+      "name": "VenomFaction (Minecraft 1.7.10)",
+      "description": "VenomFaction Running Minecraft 1.7.10 (Forge v10.13.4.1614)",
       "icon": null,
       "version": "1.0.0",
-      "address": "node-1.aryk.fr:25169",
+      "address": "localhost:25565",
       "minecraftVersion": "1.7.10",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -204,6 +204,16 @@
               }
             }
           ]
+        },
+        {
+          "id": "net.optifine:optifine:1.7.10_HD_U_E7@jar",
+          "name": "OptiFine 1.7.10_HD_U_E7",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1774165,
+            "url": "https://github.com/Distortion-2569/LauncherVenom/raw/main/servers/VenomFaction-1.7.10/forgemods/required/OptiFine_1.7.10_HD_U_E7.jar",
+            "MD5": "445062f5aaf982c36c72d90530c26850"
+          }
         }
       ]
     }
